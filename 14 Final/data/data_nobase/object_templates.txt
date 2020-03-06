@@ -1,0 +1,18 @@
+# A list of point clouds to try aligning
+
+#../data/data_nobase/model_b1.pcd
+#../data/data_nobase/model_b2.pcd
+#../data/data_nobase/model_b4.pcd
+../data/data_nobase/model_b4.pcd
+../data/data_nobase/model_b5.pcd
+
+
+#../data/data_nobase/model_s1.pcd
+#../data/data_nobase/model_s2.pcd
+#../data/data_nobase/model_s3.pcd
+#../data/data_nobase/model_s4.pcd
+../data/data_nobase/model_s5.pcd
+../data/data_nobase/model_s7.pcd
+
+../data/data_nobase/model_m2.pcd
+../data/data_nobase/model_m01.pcd

@@ -1,0 +1,5 @@
+# A list of point clouds to try aligning
+#./data/model_big_new.pcd
+#./data/model_small_new.pcd
+#./data/plate_china_model_new.pcd
+

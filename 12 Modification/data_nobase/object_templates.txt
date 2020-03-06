@@ -1,0 +1,8 @@
+# A list of point clouds to try aligning
+#./data_nobase/model_big_nobase.pcd
+./data_nobase/model_small_nobase.pcd
+#./data_nobase/plate_china_model_new.pcd
+./data_nobase/model_m2.pcd
+./data_nobase/model_b1.pcd
+#./data_nobase/model_b2.pcd
+#./data_nobase/model_b3.pcd

@@ -1,0 +1,5 @@
+# A list of point clouds to try aligning
+#./data_nobase/model_big_nobase.pcd
+#./data_nobase/model_china_nobase.pcd
+#./data_nobase/model_small_nobase.pcd
+

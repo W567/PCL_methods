@@ -1,0 +1,2 @@
+./data/model_aligned_0.pcd
+./data/model_aligned_1.pcd
